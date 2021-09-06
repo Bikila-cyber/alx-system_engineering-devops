@@ -1,1 +1,9 @@
-alx-system_engineering-devops is any study which is about developing software engineering!!!!!
+The following commands are used in this project...
+printenv
+set
+unset
+export
+alias
+unalias
+source
+printf
